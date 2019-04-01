@@ -9,3 +9,14 @@ C:\Users\win10\Documents\Visual Studio 2015\Projects\CsharpHttpClient\Socket通�
 C:\Users\win10\Documents\Visual Studio 2015\Projects\CsharpHttpClient\Socket通信_Client\obj\Debug\HttpClient.csproj.GenerateResource.Cache
 C:\Users\win10\Documents\Visual Studio 2015\Projects\CsharpHttpClient\Socket通信_Client\obj\Debug\Socket通信_Client.exe
 C:\Users\win10\Documents\Visual Studio 2015\Projects\CsharpHttpClient\Socket通信_Client\obj\Debug\Socket通信_Client.pdb
+C:\Users\win10\Documents\Visual Studio 2015\Projects\CsharpHttpClient\HttpClient\obj\Debug\HttpClient.Properties.Resources.resources
+C:\Users\win10\Documents\Visual Studio 2015\Projects\CsharpHttpClient\HttpClient\obj\Debug\HttpClient.csproj.GenerateResource.Cache
+C:\Users\win10\Documents\Visual Studio 2015\Projects\CsharpHttpClient\HttpClient\bin\Debug\HttpClient.exe.config
+C:\Users\win10\Documents\Visual Studio 2015\Projects\CsharpHttpClient\HttpClient\bin\Debug\HttpClient.exe
+C:\Users\win10\Documents\Visual Studio 2015\Projects\CsharpHttpClient\HttpClient\bin\Debug\HttpClient.pdb
+C:\Users\win10\Documents\Visual Studio 2015\Projects\CsharpHttpClient\HttpClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\win10\Documents\Visual Studio 2015\Projects\CsharpHttpClient\HttpClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\win10\Documents\Visual Studio 2015\Projects\CsharpHttpClient\HttpClient\obj\Debug\HttpClient.exe
+C:\Users\win10\Documents\Visual Studio 2015\Projects\CsharpHttpClient\HttpClient\obj\Debug\HttpClient.pdb
+C:\Users\win10\Documents\Visual Studio 2015\Projects\CsharpHttpClient\HttpClient\obj\Debug\HttpClient.csprojResolveAssemblyReference.cache
+C:\Users\win10\Documents\Visual Studio 2015\Projects\CsharpHttpClient\HttpClient\obj\Debug\HttpClient.client_form.resources
